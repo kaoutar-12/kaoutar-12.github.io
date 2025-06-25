@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100..900;1,100..900&family=Inconsolata:wght@200..900&family=Maven+Pro:wght@400..900&display=swap");
+
+
+:root {
+  --backgound: #000;
+  --darkpurple: #6a097d;
+  --purple: #c060a1;
+  --beige: #f1d4d4;
+  --pink: #cb80ab;
+  --unit:10px;
+}
+
+body {
+  /* background: var(--backgound); */
+  margin: 0;
+  /* padding-top: 100px;
+  padding-left: 100px; */
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
